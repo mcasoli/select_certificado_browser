@@ -1,0 +1,4 @@
+﻿webdriver-manager==4.0.0
+selenium==4.8.3
+PyAutoGUI==0.9.53
+Pillow==9.4.0
